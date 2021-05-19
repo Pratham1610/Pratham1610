@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pratham1610
+- 👋 Hi, I’m PRATHAM SINGHAL
 - 👀 I’m interested in coding and learning new technology
 - 🌱 I’m currently learning database and algorithm
 
