@@ -1,6 +1,5 @@
 - 👋 Hi, I’m PRATHAM SINGHAL
 - 👀 I’m interested in coding and learning new technology
-- 🌱 I’m currently learning datastructure and algorithm
 
 
 <!---
