@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Sorting Visualizer**
 
 - 🌱 I’m currently learning **NEXT.js**
--  Currently working on Stock market prediction using HKSVM.
+-  Currently working on Stock market prediction.
 
 - 💬 Ask me about **C++ and Python**
 
