@@ -3,12 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham1610&label=Profile%20views&color=0e75b6&style=flat" alt="pratham1610" /> </p>
 
-- 🔭 I’m currently working on **Sorting Visualizer**
+- 🔭 I’m currently working on **Sorting Visualizer**.
 
-- 🌱 I’m currently learning **NEXT.js**
--  Currently working on Stock market prediction.
+- 🌱 I’m currently learning **NEXT.js**.
 
-- 💬 Ask me about **C++ and Python**
+- 💬 Ask me about **C++, Python, Machine learning and Full Stack Development**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
