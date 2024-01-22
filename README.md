@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pratham Singhal</h1>
-<h3 align="center">A passionate Front-end developer from India. Having Interest in DSA and problem solving.</h3>
+<h3 align="center">A passionate Front-end developer from India. Having an Interest in DSA and problem solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham1610&label=Profile%20views&color=0e75b6&style=flat" alt="pratham1610" /> </p>
 
-- 🔭 I’m currently working on **Sorting Visualizer**.
+- 🔭 I’m currently working on **Chat application with AI integration**.
 
 - 🌱 I’m currently learning **NEXT.js**.
 
