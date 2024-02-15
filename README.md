@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham1610&label=Profile%20views&color=0e75b6&style=flat" alt="pratham1610" /> </p>
 
-- 🔭 I’m currently working on **Chat application with AI integration**.
+- 🔭 I’m currently working on **Driver Cab Application using Kotlin**.
 
-- 🌱 I’m currently learning **NEXT.js**.
+- 🌱 I’m currently learning **Android Development**.
 
-- 💬 Ask me about **C++, Python, Machine learning and Full Stack Development**.
+- 💬 Ask me about **C++, Python, Machine learning, Full Stack Development and Android development**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
